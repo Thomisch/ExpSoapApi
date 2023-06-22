@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/my1stAspApi2Azure.props" />
+</Project>
