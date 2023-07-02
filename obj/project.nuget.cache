@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IzRuNBdJB50lKlnIuToCJ4X1ZHYiHrB3f2M5hdBxeAqNLHDOkE3R22kF7aYzbVxZVqPKHv58U5dU4neIaDgbTA==",
+  "dgSpecHash": "AYo4X8tFkWMilq8+GxY0X3CzOseHHjdzI157+OeeW5Jo24grn0O44WS2M2BKYwag0Ue9RMGb4fb9GJ+FnZalkA==",
   "success": true,
-  "projectFilePath": "/Users/t0m15ch/Desktop/delivery/my1stAspApi2Azure/my1stAspApi2Azure.csproj",
+  "projectFilePath": "/Users/t0m15ch/Desktop/my_azure/my1stAspApi2Azure/my1stAspApi2Azure.csproj",
   "expectedPackageFiles": [
     "/Users/t0m15ch/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/7.0.7/microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.7.nupkg.sha512",
     "/Users/t0m15ch/.nuget/packages/microsoft.aspnetcore.openapi/7.0.7/microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",

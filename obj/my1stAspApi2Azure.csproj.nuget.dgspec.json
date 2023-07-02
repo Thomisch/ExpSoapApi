@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/t0m15ch/Desktop/delivery/my1stAspApi2Azure/my1stAspApi2Azure.csproj": {}
+    "/Users/t0m15ch/Desktop/my_azure/my1stAspApi2Azure/my1stAspApi2Azure.csproj": {}
   },
   "projects": {
-    "/Users/t0m15ch/Desktop/delivery/my1stAspApi2Azure/my1stAspApi2Azure.csproj": {
+    "/Users/t0m15ch/Desktop/my_azure/my1stAspApi2Azure/my1stAspApi2Azure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/t0m15ch/Desktop/delivery/my1stAspApi2Azure/my1stAspApi2Azure.csproj",
+        "projectUniqueName": "/Users/t0m15ch/Desktop/my_azure/my1stAspApi2Azure/my1stAspApi2Azure.csproj",
         "projectName": "my1stAspApi2Azure",
-        "projectPath": "/Users/t0m15ch/Desktop/delivery/my1stAspApi2Azure/my1stAspApi2Azure.csproj",
+        "projectPath": "/Users/t0m15ch/Desktop/my_azure/my1stAspApi2Azure/my1stAspApi2Azure.csproj",
         "packagesPath": "/Users/t0m15ch/.nuget/packages/",
-        "outputPath": "/Users/t0m15ch/Desktop/delivery/my1stAspApi2Azure/obj/",
+        "outputPath": "/Users/t0m15ch/Desktop/my_azure/my1stAspApi2Azure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/t0m15ch/.nuget/NuGet/NuGet.Config"
